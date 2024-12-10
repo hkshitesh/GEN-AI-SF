@@ -13,3 +13,5 @@ Zero-Shot, Few-Shot and COT Lab: https://colab.research.google.com/drive/1UajWQr
 
 Agent Building Lab : https://colab.research.google.com/drive/1bGBtPFfpqYZayFz4R1K36rOQ0ubGHgk6?usp=sharing
 
+GAN Lab: https://colab.research.google.com/drive/1dsnW5egXQM0dTSYqw_6xNHhDu08oM5Tk?usp=sharing
+
