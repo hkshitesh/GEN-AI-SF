@@ -11,3 +11,5 @@ https://youtu.be/aircAruvnKk?si=CzA91fyPKBC7nWFF
 
 Zero-Shot, Few-Shot and COT Lab: https://colab.research.google.com/drive/1UajWQrQnTXLJMRGK6x2avz99tsBTMwMf?usp=sharing
 
+Agent Building Lab : https://colab.research.google.com/drive/1dtGD60lG460a5qJVBjKsdzDSmbi18rmV#scrollTo=jHJVm4B_XTWE
+
