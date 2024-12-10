@@ -7,3 +7,7 @@ Lab2: https://colab.research.google.com/drive/1y_1DCJcClemODlgZTn_IUCfraAxvOhyQ?
 ## CNN Video
 https://youtu.be/aircAruvnKk?si=CzA91fyPKBC7nWFF
 
+## DAY-2 Labs
+
+Zero-Shot, Few-Shot and COT Lab: https://colab.research.google.com/drive/1UajWQrQnTXLJMRGK6x2avz99tsBTMwMf?usp=sharing
+
