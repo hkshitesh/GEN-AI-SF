@@ -15,3 +15,7 @@ Agent Building Lab : https://colab.research.google.com/drive/1bGBtPFfpqYZayFz4R1
 
 GAN Lab: https://colab.research.google.com/drive/1dsnW5egXQM0dTSYqw_6xNHhDu08oM5Tk?usp=sharing
 
+## DAY-3 Lab
+
+Autoencoded Lab-1:  https://colab.research.google.com/drive/1wedE7qN77rqMtgwZtkISvqKnwPsthJvA?usp=sharing
+
