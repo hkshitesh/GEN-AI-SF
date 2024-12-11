@@ -21,3 +21,5 @@ Autoencoded Lab-1:  https://colab.research.google.com/drive/1wedE7qN77rqMtgwZtkI
 
 Autoencoder Lab-1 (CIFAR-10): https://colab.research.google.com/drive/1PMM1HupG5PoDqGEWjIYrDfIyTjF2wivp?usp=sharing
 
+word2Vec Lab: https://colab.research.google.com/drive/1wiguQTDag38Xmfmzompnqd1dugnO2GZz?usp=sharing
+
