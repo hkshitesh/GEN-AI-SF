@@ -25,3 +25,5 @@ word2Vec Lab: https://colab.research.google.com/drive/1wiguQTDag38Xmfmzompnqd1du
 
 RAG Lab: https://colab.research.google.com/drive/1JUy85-dNvbD_sEtyPLT-RlEAngJH6Qif?usp=sharing
 
+Langchain Lab:  https://colab.research.google.com/drive/1_bVfLtSyD9UM3IKwrUjwgwBPC9ciWubJ?usp=sharing
+
