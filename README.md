@@ -18,4 +18,5 @@ GAN Lab: https://colab.research.google.com/drive/1dsnW5egXQM0dTSYqw_6xNHhDu08oM5
 ## DAY-3 Lab
 
 Autoencoded Lab-1:  https://colab.research.google.com/drive/1wedE7qN77rqMtgwZtkISvqKnwPsthJvA?usp=sharing
+Autoencoder Lab-1 (CIFAR-10): https://colab.research.google.com/drive/1PMM1HupG5PoDqGEWjIYrDfIyTjF2wivp?usp=sharing
 
